@@ -15,7 +15,7 @@ class UserSeeder extends Seeder
     {
         $users = [
             [    
-                'name'      => 'Mindo Fanbregas Sitorus',
+                'name'      => 'Jihan Amelia',
                 'email'     => 'admin@gmail.com',
                 'password'  => Hash::make('password123'),
                 'role'      => 'admin',
@@ -23,7 +23,7 @@ class UserSeeder extends Seeder
                 'alamat'    => 'Bandung, Jawa Barat',
             ],
             [
-                'name'      => 'Nazriel Nur Apriliansyah',
+                'name'      => 'Desfitta Alvareza Irawan',
                 'email'     => 'petugas@gmail.com',
                 'password'  => Hash::make('password123'),
                 'role'      => 'petugas',
@@ -31,24 +31,24 @@ class UserSeeder extends Seeder
                 'alamat'    => 'Bandung, Jawa Barat',
             ],
             [
-                'name'      => 'Rasya Pradana Putra',
-                'email'     => 'rasya@gmail.com',
+                'name'      => 'Siti Fatimah',
+                'email'     => 'siti@gmail.com',
                 'password'  => Hash::make('password123'),
                 'role'      => 'peminjam',
                 'no_hp'     => '083456789012',
                 'alamat'    => 'Bandung, Jawa Barat',
             ],
             [
-                'name'      => 'Dimas Raditya Putranto',
-                'email'     => 'dimas@gmail.com',
+                'name'      => 'Ayu Anjani Fitri Laksono',
+                'email'     => 'ayu@gmail.com',
                 'password'  => Hash::make('password123'),
                 'role'      => 'peminjam',
                 'no_hp'     => '084567890123',
                 'alamat'    => 'Bandung, Jawa Barat',
             ],
             [
-                'name'      => 'Alif Yudha Fauzan',
-                'email'     => 'alif@gmail.com',
+                'name'      => 'Najla Nadhifah',
+                'email'     => 'najla@gmail.com',
                 'password'  => Hash::make('password123'),
                 'role'      => 'peminjam',
                 'no_hp'     => '085678901234',
